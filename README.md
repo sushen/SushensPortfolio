@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Sushen Biswas poritipholio
+# Sushen Biswas portfolio
 
-> my poritipholio
+> my portfolio
 
 
 ## Built With
