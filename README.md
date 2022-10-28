@@ -19,9 +19,9 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/bernabasy/hello-microvers-frist-project/archive/refs/heads/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/sushen/SushensPortfolio), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-```bash
+
 To get a local copy up and running follow these simple steps:
  -On your terminal/IDE use the command "git clone [https://github.com/bernabasy/poritipholio.git"](https://github.com/bernabasy/poritipholio.git) "
  - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/)
